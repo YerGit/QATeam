@@ -42,6 +42,9 @@ public class Assigments_Results_1_to_4 {
         int numero2 = Integer.parseInt(scann.nextLine());
         System.out.println("El numero mayor es:");
         System.out.println(numero1 > numero2 ? numero1 : numero2);
+        
+        // # 5
 	}
+	
 
 }
